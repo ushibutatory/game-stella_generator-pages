@@ -16,6 +16,11 @@
 - 3 歳の娘が遊ぶ想定なので、テキストは敢えてひらがなを多用しています。
   - AI が生成するテキストには難しい表現が含まれることがあります。
 
+## 関連記事
+
+- [AWS LambdaからGroq APIを実行する（Node.js版）](https://zenn.dev/ushibutatory/articles/519dd0c63c3f46e2747f)
+- [LLMの生成結果を安定させる小技](https://zenn.dev/ushibutatory/articles/508b0fa059eceeb4c945)
+
 ## 使わせていただいたアセット、素材など
 
 - BGM
