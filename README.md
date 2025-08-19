@@ -20,6 +20,7 @@
 
 ## 関連記事
 
+- [[Unity] 効果音再生を一元管理するSoundPlayer](https://zenn.dev/ushibutatory/articles/7a4e30c1f1dc75d41d28)
 - [AWS LambdaからGroq APIを実行する（Node.js版）](https://zenn.dev/ushibutatory/articles/519dd0c63c3f46e2747f)
 - [LLMの生成結果を安定させる小技](https://zenn.dev/ushibutatory/articles/508b0fa059eceeb4c945)
 
