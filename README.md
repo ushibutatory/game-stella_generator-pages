@@ -4,10 +4,12 @@
 
 ![screenshot2](./images/screenshot2.png)
 
-## 実際に遊べるページ
+## 動作確認
 
-- 開発環境
+- GitHubPages
   - https://ushibutatory.github.io/game-stella_generator-pages/
+- unityroom
+  - https://unityroom.com/games/seiza-zukuri
 
 ## なにこれ
 
@@ -28,12 +30,15 @@
     - ジムノペディ第 1 番 / エリック・サティ
 - SE
   - Casual SoundFX Pack
+    - https://assetstore.unity.com/packages/audio/sound-fx/free-casual-soundfx-pack-164843
   - Free UI Click Sound Effects Pack
+    - https://assetstore.unity.com/packages/audio/sound-fx/free-ui-click-sound-pack-244644
 - フォント
-  - JK丸ゴシック
-    - [ふぉんときゅーとがーる。 | https://font.cutegirl.jp](https://font.cutegirl.jp)
+  - [ふぉんときゅーとがーる。 | https://font.cutegirl.jp](https://font.cutegirl.jp)
+    - JK丸ゴシック
 - 背景
   - SkySeries Freebie
+    - https://assetstore.unity.com/packages/2d/textures-materials/sky/skybox-series-free-103633
 - アイコン
   - [https://icooon-mono.com/](https://icooon-mono.com/)
 - 他
@@ -44,6 +49,7 @@
   - MessagePipe
     - https://github.com/Cysharp/MessagePipe
   - DOTWeen Pro
+    - https://assetstore.unity.com/packages/tools/visual-scripting/dotween-pro-32416
   - Unity File Extensions
     - https://listwon.itch.io/unityfileextensions
   - Odin Inspector
